@@ -1,0 +1,119 @@
+# showcase
+showcase:
+  enable: true
+  title: "Maurizio Rossetti"
+  subtitle: ""
+  description: "Aspiring Chef with a passion for seasonal and local ingredients, Roman Cuisine, and travelling. Currently leading daily engaging culinary experiences with hands-on instruction for international tourists sharing Italian culture, cuisine, and traditions."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:info@mauriziorossetti.com"
+
+  socialLinks:
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/cuciniamau/"
+
+   # - icon: "youtube"
+   #   URL: "https://www.tiktok.com/@cuciniamau"
+
+
+# about
+about:
+  enable: false
+  title: "Who am I?"
+  content: '<p class="lead">
+    roman chef, hire a chef, italian personal chef, chef for artistic residency </p>'
+  button:
+    btnText: "About Me"
+    URL: "/"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  items:
+    - university: "Italian Chef Academy"
+      year: "2023"
+      degree: "International Culinary Program ICP 2023"
+      
+    - university: "HACCP Certification"
+      year: "2023"
+      degree: ""
+
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Creative culinary professional with over 5 years of teaching experience. Proficient in English, Italian, and Spanish. Quick learner, skilled communicator, and a collaborative team member. Innate talent for cross-cultural interaction. Achieved 8-year mastery in Water Polo, including participation in the National League."
+  button:
+    btnText: "Contact"
+    URL: "mailto:info@mauriziorossetti.com"
+
+  items:
+    - title: "Culinary Instructor and Lead Chef"
+      company: "Cook with Mamma, Rome, Italy"
+      duration: "2018 - Present"
+
+    - title: "Waiter and Kitchen Support"
+      company: "Amalfi Madre, Rome, Italy"
+      duration: "2021 - 2022"
+
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Cynthia, AirBnb"
+      position: "Cook with Mamma, 2023"
+      content: "Maurizio is highly skilled and his passion for Italian cuisine made him the perfect host for our class. Every detail was carefully thought out to ensure everyone felt comfortable and had a memorable time. I learned so many new cooking techniques that I’m excited to perfect once I return home."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Nadav, AirBnb"
+      position: "Cook with Mamma, 2023"
+      content: "A very nice way to explore the italian food and culture. We really enjoyed the class with Maurizio, is was professional, kind and fun to talk with. Although the italian cuisine is not new to us, we learned some new stuff! As we have special food limitations, Maurizio found solutions very quickly."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Emmie, AirBnb"
+      position: "Cook with Mamma, 2023"
+      content: "We loved cooking with Maurizio! Great atmosphere with the other guests. We can't wait to replicate the recipes at home! Maurizio is an excellent teacher, and the pasta/tiramisu making was very easy to follow for experts and beginners alike!"
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "mailto:info@mauriziorossetti.com"
+    full_name: "Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+39 349 620 1662"
+  email:
+    title: "Email"
+    email: '<a href="mailto:info@mauriziorossetti.com">info@mauriziorossetti.com</a>'
+  address:
+    title: "Address"
+    address: "Rome, Italy"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
