@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Maurizio Rossetti"
   subtitle: ""
-  description: "Aspiring Chef with a passion for seasonal and local ingredients, Roman Cuisine, and travelling. Currently leading daily engaging culinary experiences with hands-on instruction for international tourists sharing Italian culture, cuisine, and traditions."
+  description: "Chef with a passion for seasonal and local ingredients, Roman Cuisine, and travelling. Currently leading daily engaging culinary experiences with hands-on instruction for international tourists sharing Italian culture, cuisine, and traditions."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -50,7 +50,7 @@ education:
       degree: ""
 
 
-# experience
+# about
 experience:
   enable: true
   title: "Experience"
