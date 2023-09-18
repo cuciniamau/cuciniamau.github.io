@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Maurizio Rossetti"
   subtitle: ""
-  description: "Chef with a passion for seasonal and local ingredients, Roman Cuisine, and travelling. Currently leading daily engaging culinary experiences with hands-on instruction for international tourists sharing Italian culture, cuisine, and traditions."
+  description: "Chef with a passion for seasonal and local ingredients, Roman Cuisine, and travelling. Currently completing a 4-month Culinary Internship placement at Carter Oblio, listed in the Michelin Guide, in Rome."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -54,7 +54,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Creative culinary professional with over 5 years of teaching experience. Currently completing a 4-month Culinary Internship placement at Carter Oblio, listed in the Michelin Guide, in Rome. Proficient in English, Italian, and Spanish. Quick learner, skilled communicator, and a collaborative team member. Innate talent for cross-cultural interaction. Achieved 8-year mastery in Water Polo, including participation in the National League."
+  description: "Creative culinary professional with over 5 years of teaching experience. Proficient in English, Italian, and Spanish. Quick learner, skilled communicator, and a collaborative team member. Innate talent for cross-cultural interaction. Achieved 8-year mastery in Water Polo, including participation in the National League."
   button:
     btnText: "Contact"
     URL: "mailto:info@mauriziorossetti.com"
