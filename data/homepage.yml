@@ -54,15 +54,19 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Creative culinary professional with over 5 years of teaching experience. Proficient in English, Italian, and Spanish. Quick learner, skilled communicator, and a collaborative team member. Innate talent for cross-cultural interaction. Achieved 8-year mastery in Water Polo, including participation in the National League."
+  description: "Creative culinary professional with over 5 years of teaching experience. Proficient in English, Italian, and Spanish. Quick learner, skilled communicator, and a collaborative team member. Innate talent for cross-cultural interaction."+"Achieved 8-year mastery in Water Polo, including participation in the National League."
   button:
     btnText: "Contact"
     URL: "mailto:info@mauriziorossetti.com"
 
   items:
+    - title: "Culinary Internship"
+      company: "Carter Oblio, Rome, Italy"
+      duration: "2023 - Present"
+      
     - title: "Culinary Instructor and Lead Chef"
       company: "Cook with Mamma, Rome, Italy"
-      duration: "2018 - Present"
+      duration: "2018 - 2023"
 
     - title: "Waiter and Kitchen Support"
       company: "Amalfi Madre, Rome, Italy"
